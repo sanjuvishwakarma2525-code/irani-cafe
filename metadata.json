@@ -1,0 +1,6 @@
+{
+  "name": "Irani Naka Cafe",
+  "description": "An aesthetic experiential cafe website showcasing the authentic Irani heritage, nostalgic ambience, signature menu, real-time table reservations, and interactive Chai Club loyalty program.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
